@@ -1,0 +1,12 @@
+#container{
+    display:flex;
+    height: 600px;
+    width: 1080px;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    margin:10px;
+    border-radius: 5px;
+    height:25px;
+}
